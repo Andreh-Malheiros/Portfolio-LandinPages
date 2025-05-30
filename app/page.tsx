@@ -75,12 +75,6 @@ export default function Portfolio() {
 
   const projects = [
     {
-      title: "Matheus Barber Style",
-      description: "Landing page para barbeiro de alto nível com foco em agendamento digital e presença visual forte.",
-      link: "https://andreh-malheiros.github.io/Barber-Site/",
-      image: "/images/joao-style.png",
-    },
-    {
       title: "Flor do Cerrado",
       description:
         "Página moderna e responsiva para loja física de flores e presentes, com foco em pedidos por WhatsApp.",
@@ -99,7 +93,7 @@ export default function Portfolio() {
       description:
         "Landing Page criada para uma barbearia, exibindo seus serviços e contando sua historia",
       link: "https://barbearia-seletto.vercel.app/",
-      image: "/images/gabriel-fotografia.png",
+      image: "/images/Seletto.png",
     },
   ]
 
