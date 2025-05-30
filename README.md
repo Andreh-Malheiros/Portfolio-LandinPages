@@ -1,5 +1,3 @@
-📁 Projeto: Portfolio-LandinPages
-
 # Portfolio Landing Pages
 
 Portfólio pessoal contendo diversos projetos de landing pages criadas para pequenos negócios ou fins de demonstração.
